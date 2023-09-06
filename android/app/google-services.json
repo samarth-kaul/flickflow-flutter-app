@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930476570862",
+    "project_id": "flickflow-a6dd7",
+    "storage_bucket": "flickflow-a6dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930476570862:android:aae7d51d05b80d17e51bff",
+        "android_client_info": {
+          "package_name": "com.example.flickflow_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930476570862-5onbv6k7und2b6jt4o6b4c2fgssrnhqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo7NiBWUAhTZd8M9nj1Q76TBV_vpZFDaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930476570862-5onbv6k7und2b6jt4o6b4c2fgssrnhqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

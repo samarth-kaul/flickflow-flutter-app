@@ -1,0 +1,6 @@
+package com.example.flickflow_flutter_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
